@@ -16,4 +16,10 @@
   <tr>
     <td>Python</td>
   </tr>
+
+<tr>
+    <td>6.*</td>
+  </tr>
+
 </table>
+
