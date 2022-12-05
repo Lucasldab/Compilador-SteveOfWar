@@ -1,0 +1,5 @@
+/summon player1 Player
+/summon mob1 Tatzelwurms
+/give player1 Diamond Chestplate 1
+/kill player1
+/kill mob1

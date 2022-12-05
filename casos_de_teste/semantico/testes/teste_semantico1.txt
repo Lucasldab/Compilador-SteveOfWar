@@ -1,0 +1,2 @@
+/summon player1 Player
+/give player1 Diamond Gungnir -5

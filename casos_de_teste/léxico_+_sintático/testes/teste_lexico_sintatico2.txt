@@ -1,0 +1,3 @@
+/summon player1 player
+/summon mob1 Tatzelwurms
+/give player1 Guardian Shield

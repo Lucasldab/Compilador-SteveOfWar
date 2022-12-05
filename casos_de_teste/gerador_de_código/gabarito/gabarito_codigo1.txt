@@ -1,0 +1,6 @@
+Summoned new Player
+Summoned new Tatzelwurms
+Given [DiamondChestplate] * 1 to player1
+Killed player1
+Killed mob1
+Fim da Compilação

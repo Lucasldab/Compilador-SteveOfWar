@@ -1,0 +1,17 @@
+/summon player1 Player
+/summon player2 Player
+/summon player3 Player
+
+/summon mob1 Light Elf Slayers
+/summon mob2 Dark Elf Lords
+
+/give player1 Iron Guardian Shield 1
+/give player2 Iron Mjolnir 1
+/give player2 Iron Chestplate 1
+/give player2 Iron Leggings 1
+/give player2 Iron Boots 1
+
+/kill mob1
+/kill mob2
+
+/time set day

@@ -1,0 +1,2 @@
+line 1:16 mismatched input 'player' expecting {'Player', 'Light Elf Slayers', 'Dark Elf Lords', 'Tatzelwurms', 'Exploding Nightmares', 'Draugr Lords', 'Revenant Hags'}
+line 3:29 missing NUM_INT at '<EOF>'

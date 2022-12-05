@@ -1,0 +1,3 @@
+/summon player1 Player
+/time set 25000
+

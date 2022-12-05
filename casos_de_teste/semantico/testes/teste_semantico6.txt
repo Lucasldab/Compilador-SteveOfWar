@@ -1,0 +1,4 @@
+/gamemode 9
+/summon mob1 Revenant Hags
+/tp mob1 996 556 33
+

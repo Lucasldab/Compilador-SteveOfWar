@@ -1,0 +1,1 @@
+Exception: Invalid value for gamemode, type 0 for normal, 1  for god mod or 2 for adventure

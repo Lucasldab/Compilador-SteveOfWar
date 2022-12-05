@@ -1,0 +1,5 @@
+/summon player1 Player
+
+/give player1 Diamond Blade of Chaos 2
+/give player1 Talon Bow 1
+/give player1 Draupnir Spear 45

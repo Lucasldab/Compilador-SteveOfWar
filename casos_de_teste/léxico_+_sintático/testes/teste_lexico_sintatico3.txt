@@ -1,0 +1,6 @@
+/summon player1 Player
+summon mob1 Draugr Lords
+
+/weather sunny
+/tp player1 2 2  
+/difficulty very hard

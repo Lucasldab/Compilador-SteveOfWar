@@ -1,0 +1,10 @@
+Summoned new Player
+Summoned new Dark Elf Lords
+Your game mode has been updated to Survival Mode
+Given [Mjolnir] * 1 to kratos
+Killed mob1
+Teleported kratos to 2, 2, 2
+Set the time to 1000
+Set game difficulty to god of War
+Changing to rain weather
+Fim da Compilação

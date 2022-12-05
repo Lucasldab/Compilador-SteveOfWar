@@ -1,0 +1,9 @@
+/summon p1 Player
+/time set 15000
+/gamemode 1
+/weather fimbulwinter 
+/difficulty story
+/give p1 Leviathan 1
+/kill p1 
+/summon end1 Dark Elf Lords
+/kill end1

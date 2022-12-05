@@ -1,0 +1,4 @@
+line 2:0 extraneous input 'summon' expecting {<EOF>, '/'}
+line 4:9 mismatched input 'sunny' expecting {'clear', 'rain', 'snow', 'thunder'}
+line 6:0 missing NUM_INT at '/'
+line 6:12 extraneous input 'very' expecting {'peaceful', 'easy', 'normal', 'hard'}

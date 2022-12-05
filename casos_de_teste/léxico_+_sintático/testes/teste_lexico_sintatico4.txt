@@ -1,0 +1,9 @@
+/summon kratos Player
+/summon mob1 Dark Elf Lords
+/gamemode 0
+/give kratos Mjolnir 1
+/kill mob1
+/tp kratos 2 2 2
+/time set day
+/difficulty god of War
+/weather rain

@@ -1,0 +1,3 @@
+/summon player1 Player
+/summon mob1 Tatzelwurms
+/give mob1 Iron Blade of Chaos 3

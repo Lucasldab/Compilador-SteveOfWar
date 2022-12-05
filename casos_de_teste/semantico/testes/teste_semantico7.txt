@@ -1,0 +1,3 @@
+/summon mob1 Draugr Lords
+/tp mob1 996 556 33
+

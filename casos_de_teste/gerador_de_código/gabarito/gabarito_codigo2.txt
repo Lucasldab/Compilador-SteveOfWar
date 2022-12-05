@@ -1,0 +1,10 @@
+Summoned new Player
+Summoned new Player
+Summoned new Player
+Summoned new Exploding Nightmares
+Killed player2
+Given [Talon Bow] * 23 to player1
+Given [Talon Bow] * 23 to player3
+Summoned new Player
+Teleported player2 to 921, 21, 333
+Fim da Compilação

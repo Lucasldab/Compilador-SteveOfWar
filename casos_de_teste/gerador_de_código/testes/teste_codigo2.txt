@@ -1,0 +1,8 @@
+/summon player1 Player
+/summon player2 Player
+/summon player3 Player
+/summon mob1 Exploding Nightmares
+/kill player2
+/give @a Talon Bow 23
+/summon player2 Player
+/tp player2 921 21 333

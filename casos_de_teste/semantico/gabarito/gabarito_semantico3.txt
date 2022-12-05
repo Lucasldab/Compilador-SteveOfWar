@@ -1,0 +1,14 @@
+Summoned new Player
+Summoned new Player
+Summoned new Player
+Summoned new Light Elf Slayers
+Summoned new Dark Elf Lords
+Given [IronGuardian Shield] * 1 to player1
+Given [IronMjolnir] * 1 to player2
+Given [IronChestplate] * 1 to player2
+Given [IronLeggings] * 1 to player2
+Given [IronBoots] * 1 to player2
+Killed mob1
+Killed mob2
+Set the time to 1000
+Fim da Compilação

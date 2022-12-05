@@ -1,0 +1,10 @@
+Summoned new Player
+Set the time to 15000
+Your game mode has been updated to God Mode Mode
+Changing to fimbulwinter weather
+Set game difficulty to story
+Given [Leviathan] * 1 to p1
+Killed p1
+Summoned new Dark Elf Lords
+Killed end1
+Fim da Compilação
