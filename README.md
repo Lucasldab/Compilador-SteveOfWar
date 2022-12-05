@@ -9,7 +9,7 @@ __Professor: Isaac Souza Elgrably__
 * Marcos Gabriel França da Costa - https://github.com/Marcos-t
 * Vitor Dias Flores - https://github.com/Vitorfl0res25
 * Lucas Lima de Aragão - https://github.com/Lucasldab
-*
+* Roberto Lucas Morais de Souza - https://github.com/rlmsz
 *
 
 ## Descrição
