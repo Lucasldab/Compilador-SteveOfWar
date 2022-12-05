@@ -1,4 +1,4 @@
-<h1>Compilador simulando o jogo God Of War </h1>
+<h1>Compilador pseudo de o jogo steve of war </h1
 <h2>Criação de um compilador para uma linguagem própria </h2>
 
 __Trabalho  da Disciplina de Compiladores__
@@ -27,4 +27,3 @@ __Professor: Isaac Souza Elgrably__
   </tr>
 
 </table>
-
