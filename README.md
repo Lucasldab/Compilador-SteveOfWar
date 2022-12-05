@@ -1,5 +1,9 @@
-<h1>Compilador simulando um jogo denominado SteveOfWar </h1>
-> Criação de um compilador para uma linguagem própria.
+<h1>Compilador simulando um jogo denominado Steve Of War </h1>
+<h2>Criação de um compilador para uma linguagem própria </h2>
+
+**Trabalho  da Disciplina de Compiladores**
+
+**Professor: Isaac Agelim**
 
 ## Integrantes
 * Marcos Gabriel - https://github.com/Marcos-t
