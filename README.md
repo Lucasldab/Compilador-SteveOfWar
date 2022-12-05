@@ -1,9 +1,9 @@
 <h1>Compilador simulando o jogo God Of War </h1>
 <h2>Criação de um compilador para uma linguagem própria </h2>
 
-**Trabalho  da Disciplina de Compiladores**
+__Trabalho  da Disciplina de Compiladores__
 
-**Professor: Isaac Souza Elgrably**
+__Professor: Isaac Souza Elgrably__
 
 ## Integrantes
 * Marcos Gabriel - https://github.com/Marcos-t
