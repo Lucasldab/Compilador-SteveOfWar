@@ -14,7 +14,6 @@ __Professor: Isaac Souza Elgrably__
 
 ## Descrição
 * A linguagem elaborada consiste em um pseudo terminal do jogo God Of War, cujos comandos foram adaptados para servir aos própositos da disciplina de compiladores, visando executar um compilador.
-* 
 
 ## Dependências
 <table>
