@@ -7,7 +7,7 @@ __Professor: Isaac Souza Elgrably__
 
 ## Integrantes
 * Marcos Gabriel França da Costa - https://github.com/Marcos-t
-* Vitor Dias Flores — https://github.com/Vitorfl0res25
+* Vitor Dias Flores - https://github.com/Vitorfl0res25
 *
 *
 *
