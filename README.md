@@ -6,7 +6,7 @@ __Trabalho  da Disciplina de Compiladores__
 __Professor: Isaac Souza Elgrably__
 
 ## Integrantes
-* Marcos Gabriel - https://github.com/Marcos-t
+* Marcos Gabriel França da Costa 20070025 - https://github.com/Marcos-t
 *
 *
 *
