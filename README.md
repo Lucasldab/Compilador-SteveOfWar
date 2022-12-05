@@ -10,7 +10,7 @@ __Professor: Isaac Souza Elgrably__
 * Vitor Dias Flores - https://github.com/Vitorfl0res25
 *
 *
-*
+
 
 ## Descrição
 * A linguagem elaborada consiste em um pseudo terminal do jogo God Of War, cujos comandos foram adaptados para servir aos própositos da disciplina de compiladores, visando executar um compilador.
