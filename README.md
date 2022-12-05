@@ -1,4 +1,4 @@
-<h1>Compilador simulador da linguagem de terminal do jogo SteveOfWar </h1>
+<h1>Compilador simulando um jogo denominado SteveOfWar </h1>
 > Criação de um compilador para uma linguagem própria.
 
 ## Integrantes
@@ -9,16 +9,17 @@
 *
 
 ## Descrição
+* A linguagem elaborada consiste em uma simulação do terminal do jogo God Of War, cujos comandos forma adaptados para servir aos própositos da disciplina de compiladores.
+* 
 
-
-## Linguagens usadas
+## Dependências
 <table>
   <tr>
     <td>Python</td>
-  </tr>
-
-<tr>
-    <td>6.*</td>
+    <td>Java</td>
+    <td>Pip</td>
+    <td>Venv</td>
+    <td>Antlr4</td>
   </tr>
 
 </table>
